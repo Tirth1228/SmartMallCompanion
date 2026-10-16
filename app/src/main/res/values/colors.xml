@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cool_primary">#0369A1</color>
+    <color name="cool_secondary">#0284C7</color>
+    <color name="cool_tint">#E0F2FE</color>
+    <color name="cool_dark_text">#0F172A</color>
+    <color name="cool_subtext">#475569</color>
+</resources>
